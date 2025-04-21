@@ -1,9 +1,9 @@
-<h1 align="center">Salut 👋, je suis LAFLEUR Naider</h1>
+<h1 align="center">Salut 👋, je suis Alas-00</h1>
 <h3 align="center">Un ingénieur logiciel passionné de Guyane française</h3>
 
 - 🌱 J'apprends actuellement **C, C++**
 
-- 📫 Comment me contacter **naiderlafleur@gmail.com**
+- 📫 Comment me contacter **A mettre**
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
