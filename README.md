@@ -1,9 +1,9 @@
-<h1 align="center">Salut 👋, je suis Alas-00</h1>
+<h1 align="center">Salut 👋, je suis Atlas-00</h1>
 <h3 align="center">Un ingénieur logiciel passionné de la Guyane française</h3>
 
 - 🌱 Je travail avec **React, NodeJs, Express, SQLite** actuellement
 
-- 📫 Comment me contacter **A mettre**
+- 📫 Comment me contacter **atlas.024.gf@gmail.com**
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left"></p>
